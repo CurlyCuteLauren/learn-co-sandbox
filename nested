@@ -1,0 +1,12 @@
+clothes = [
+["blouses", "t-shirts","jackets"],
+["jeans", "skirts", "shorts"],
+["sandals", "sneakers", "heels"]
+]
+clothes= [tops, bottoms, footwear]
+footwear<< "birkenstocks"
+puts clothes 
+puts clothes[0][1]
+
+
+people = [["
